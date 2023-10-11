@@ -8,7 +8,8 @@
 
 ## Descrição
 
-<!-- Back-end criado com [Nest](https://github.com/nestjs/nest) um framework com estrutura progressiva do Node.js com TypeScript do lado do servidor eficiente e escalável e documentação feita em Swagger. -->
+Projeto simples para criação de tabela de HomeOffice focado no formato híbrido em que todas as segundas-feiras são presenciais e os 4 dias restantes são alternados em forma de sorteio.
+Você pode inserir as datas inicial e final no arquivo ```Dados.py``` e colocar o nome, cargo e a preferência do primeiro dia de home-office ou presencial de cada funcionário no arquivo ```Funcionarios.py```.
 
 
 ## Instalação
